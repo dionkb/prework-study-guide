@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-This webpage can be used to review notes on the four topics (HTML, CSS, Git, and Javascript) that were covered in the prework. Bring up the ChromeDevTool console by clicking Ctrl+I, or right clicking the page and selecting "Inspect". On the newly opened dock, go to the "console" tab. You can use this simple function for suggestions on where to start first.
+This webpage can be used to review notes on the four topics (HTML, CSS, Git, and Javascript) that were covered in the prework. Bring up the ChromeDevTool console by clicking Ctrl+Shift+I, or right clicking the page and selecting "Inspect". On the newly opened dock, go to the "console" tab. You can use this simple function for suggestions on where to start first.
 
 ## Credits
 
